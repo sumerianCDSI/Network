@@ -1,7 +1,7 @@
 #!/usr/bin/python3.5
 # -*- coding=utf-8 -*-
 
-#Ce script permet de trouver l'adresse MAC d'une périphérique réseau (Uniquement pour l'OS linux)
+#Ce script permet de trouver l'adresse MAC d'un périphérique réseau (Uniquement pour l'OS linux)
 
 import os
 import re
